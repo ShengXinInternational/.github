@@ -1,0 +1,5 @@
+# How do you learn new knowledge, skills, or frameworks in programming?
+1. Practice makes perfect. Practice is very important. Only you can write the code yourself, you learned about that skill. Many people just read books, watch tutorial videos, and think they are experts in that field. Actually, After a day, even a noon nap, they forget most new knowledge.
+2. Read docs. The documents are the manual of new knowledge or framework. If you want to master them, documents are the best helper. If there are some example codes in the documents, type all of them yourself.
+3. Watch tutorials on Youtube. Some people say that interest is the best teacher, while YouTube is the best school. and the biggest advantage is it is free. If some new topics are difficult, you can search crash course. If you are already familiar with that skill, search 'Advance ...' or 'Best practice ...", and you will get some surprises.
+4. Find an opportunity to use your new skill. That is the reason why you need spend time to learning new knowledge. and if you implement it successfully, you will be perfect, Trust me.
